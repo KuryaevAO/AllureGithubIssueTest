@@ -1,4 +1,4 @@
-# demoqa-tests
+# allure-guthub-issue-tests
 
 link to the testing subject - https://github.com/
 
